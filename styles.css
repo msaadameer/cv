@@ -1,0 +1,17 @@
+body{
+  background-color: #ADDDD0
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 15px;
+  width: 10%;
+}
+h1{
+  color: #256D85;
+  font-family: Lucida Handwriting;
+}
+h3{
+  color: #256D85;
+}
